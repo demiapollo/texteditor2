@@ -34,4 +34,4 @@ This app
 
 ## Access
 
-The deployed app can be accessed at
+The deployed app can be accessed by clicking [here](https://texteditor2-be5ffbfa7dae.herokuapp.com/).
